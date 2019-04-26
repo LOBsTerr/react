@@ -1,5 +1,5 @@
-import React from "react.development";
-import ReactDom from "react-dom";
+import React from "react";
+import ReactDOM from 'react-dom';
 
 // ReactDom.render(<h1>What do I want to render</h1>, document.getElementById("root"));
 
